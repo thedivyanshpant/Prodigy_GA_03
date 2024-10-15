@@ -23,4 +23,4 @@ This project implements a simple Markov Chain model for text generation. It buil
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/thedivyanshpant/Prodigy_GA_03.git
